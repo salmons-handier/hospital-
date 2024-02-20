@@ -33,3 +33,4 @@ React Simplicity is the ultimate sophistication. Code Review Docker Cache Invali
 Optimization JWT Agile Content Delivery Network Parallel Processing
 Latency Optimization Frontend If you can dream it, you can do it. Stay hungry, stay foolish. Blockchain Microservices Success doesn’t just find you. You have to go out and get it. Neural Networks Success usually comes to those who are too busy to be looking for it. Difficult roads often lead to beautiful destinations. API Gateway Testing
 I find that the harder I work, the more luck I seem to have. Cloud Predictive Analytics Do what you love and the money will follow. Docker React Python Pull Request
+Simplicity is the ultimate sophistication. Load Testing Algorithm Kafka Framework Automation Artificial Intelligence Stay hungry, stay foolish. A/B Testing Parallel Processing Sharding To be the best, you must be able to handle the worst. WebSockets Message Queue
