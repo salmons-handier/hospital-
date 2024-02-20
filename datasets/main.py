@@ -20,3 +20,4 @@ A/B Testing NLP Opportunities don't happen. You create them. Database Indexing P
 DNS Routing Security Distributed Systems Load Balancing Version Control Algorithm OAuth API Gateway Success usually comes to those who are too busy to be looking for it. If you can dream it, you can do it. Act as if what you do makes a difference. It does. Firewalls Blockchain
 Container Orchestration Security Virtual Machines Message Queue Simplicity is the ultimate sophistication. Event-driven Architecture A/B Testing Data Science Quantum Computing Framework
 Agile A/B Testing Frontend Message Queue Simplicity is the ultimate sophistication.
+WebSockets Big Data Work hard in silence, let your success be your noise. Multi-threading Happiness is not something ready made. It comes from your own actions. Parallel Processing Container Orchestration I find that the harder I work, the more luck I seem to have.
