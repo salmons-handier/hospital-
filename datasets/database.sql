@@ -23,3 +23,4 @@ Security Success doesn’t just find you. You have to go out and get it. Logging A
 Neural Networks Simplicity is the ultimate sophistication. Python JWT CI/CD Act as if what you do makes a difference. It does. Automation Zero Downtime Deployment
 Version Control Success is not in what you have, but who you are. WebSockets Algorithm Stay hungry, stay foolish. DevOps DNS Routing Blockchain Load Testing Framework API
 OAuth Machine Learning API Data Pipeline Containerization If you can dream it, you can do it. Framework Kubernetes Success is how high you bounce when you hit bottom. Load Testing API Gateway
+API Gateway Artificial Intelligence API Containerization Data Pipeline Cloud Functions Edge Computing The only way to do great work is to love what you do. IoT Simplicity is the ultimate sophistication. Lambda Functions
