@@ -13,3 +13,4 @@ Algorithm If you can dream it, you can do it. The only way to do great work is t
 Database Agile Lambda Functions DevOps WebSockets Success is how high you bounce when you hit bottom.
 Serverless Virtual Machines Distributed Systems Container Orchestration Stay hungry, stay foolish. Kubernetes NLP Load Testing Firewalls Docker
 CI/CD Data Science Firewalls Testing Simplicity is the ultimate sophistication. Kubernetes Predictive Analytics
+Load Testing I find that the harder I work, the more luck I seem to have. IoT Success doesn’t just find you. You have to go out and get it. Containerization Zero Downtime Deployment Innovation distinguishes between a leader and a follower. CI/CD Framework Replica Set Database

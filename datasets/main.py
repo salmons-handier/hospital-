@@ -19,3 +19,4 @@ Multi-threading To be the best, you must be able to handle the worst. Code Revie
 A/B Testing NLP Opportunities don't happen. You create them. Database Indexing Parallel Processing Event-driven Architecture Virtual Machines Backend Event Sourcing Kubernetes Docker Success doesn’t just find you. You have to go out and get it. Blockchain
 DNS Routing Security Distributed Systems Load Balancing Version Control Algorithm OAuth API Gateway Success usually comes to those who are too busy to be looking for it. If you can dream it, you can do it. Act as if what you do makes a difference. It does. Firewalls Blockchain
 Container Orchestration Security Virtual Machines Message Queue Simplicity is the ultimate sophistication. Event-driven Architecture A/B Testing Data Science Quantum Computing Framework
+Agile A/B Testing Frontend Message Queue Simplicity is the ultimate sophistication.
