@@ -18,3 +18,4 @@ Optimization Zero Downtime Deployment DNS Routing Work hard in silence, let your
 Monitoring NLP Innovation distinguishes between a leader and a follower. Microservices Parallel Processing React GraphQL I find that the harder I work, the more luck I seem to have. Success is not in what you have, but who you are. Cloud Stay hungry, stay foolish. Load Testing
 Artificial Intelligence Cache Invalidation RabbitMQ Docker Cloud Functions
 Quantum Computing React Monitoring Sharding Content Delivery Network Dream big and dare to fail. RabbitMQ The only way to do great work is to love what you do.
+API Gateway Act as if what you do makes a difference. It does. JavaScript Message Queue Optimization Content Delivery Network Load Balancing Success is not in what you have, but who you are. Pull Request Monitoring Virtual Machines IoT
