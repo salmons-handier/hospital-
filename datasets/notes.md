@@ -23,3 +23,4 @@ Server Response DevOps Virtual Machines Cloud Functions Content Delivery Network
 Cloud Functions IoT DNS Routing Multi-threading Machine Learning Database Indexing Automation To be the best, you must be able to handle the worst. Framework
 If you can dream it, you can do it. Firewalls Framework Python Cloud Functions Multi-threading Scalability Sharding GraphQL Lambda Functions To be the best, you must be able to handle the worst. DNS Routing
 API Latency Optimization Data Pipeline Monitoring Neural Networks
+If you can dream it, you can do it. Simplicity is the ultimate sophistication. Success is not in what you have, but who you are. Event-driven Architecture Blockchain Distributed Systems Content Delivery Network Lambda Functions
