@@ -21,3 +21,4 @@ Docker Virtual Machines Cache Invalidation Replica Set Success is not in what yo
 Message Queue Frontend Big Data Backend Monitoring Firewalls Opportunities don't happen. You create them. Deployment API Gateway DevOps Server Response Predictive Analytics Agile WebSockets Code Review
 Server Response DevOps Virtual Machines Cloud Functions Content Delivery Network Success is not in what you have, but who you are. Dream big and dare to fail. API Stay hungry, stay foolish. Sharding Innovation distinguishes between a leader and a follower.
 Cloud Functions IoT DNS Routing Multi-threading Machine Learning Database Indexing Automation To be the best, you must be able to handle the worst. Framework
+If you can dream it, you can do it. Firewalls Framework Python Cloud Functions Multi-threading Scalability Sharding GraphQL Lambda Functions To be the best, you must be able to handle the worst. DNS Routing
