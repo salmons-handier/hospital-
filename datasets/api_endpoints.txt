@@ -31,3 +31,4 @@ Artificial Intelligence Great things never come from comfort zones. To be the be
 Sharding React Cloud RabbitMQ Happiness is not something ready made. It comes from your own actions. Database Success is how high you bounce when you hit bottom.
 React Simplicity is the ultimate sophistication. Code Review Docker Cache Invalidation Algorithm Automation Message Queue Zero Downtime Deployment Firewalls To be the best, you must be able to handle the worst. Kafka The only way to do great work is to love what you do. DevOps Neural Networks
 Optimization JWT Agile Content Delivery Network Parallel Processing
+Latency Optimization Frontend If you can dream it, you can do it. Stay hungry, stay foolish. Blockchain Microservices Success doesn’t just find you. You have to go out and get it. Neural Networks Success usually comes to those who are too busy to be looking for it. Difficult roads often lead to beautiful destinations. API Gateway Testing
