@@ -18,3 +18,4 @@ I find that the harder I work, the more luck I seem to have. Database Microservi
 The only way to do great work is to love what you do. Happiness is not something ready made. It comes from your own actions. To be the best, you must be able to handle the worst. Dream big and dare to fail. Data Science API
 The only way to do great work is to love what you do. DNS Routing Database Difficult roads often lead to beautiful destinations. Performance Firewalls CI/CD Security Load Testing Frontend Big Data Parallel Processing Cloud Functions Machine Learning
 Logging JavaScript Frontend Kubernetes Replica Set
+Load Balancing Automation Content Delivery Network Multi-threading Agile Don't be afraid to give up the good to go for the great. Container Orchestration A/B Testing UX Optimization Opportunities don't happen. You create them. Docker JWT Data Science Blockchain
