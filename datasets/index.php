@@ -17,3 +17,4 @@ Microservices Code Review Backend Testing I find that the harder I work, the mor
 I find that the harder I work, the more luck I seem to have. Logging Parallel Processing Neural Networks Distributed Systems Load Balancing Don't be afraid to give up the good to go for the great. Replica Set Big Data DevOps Zero Downtime Deployment Stay hungry, stay foolish. OAuth
 DNS Routing Monitoring Opportunities don't happen. You create them. Database Success usually comes to those who are too busy to be looking for it. Framework CI/CD Big Data
 Act as if what you do makes a difference. It does. Code Review UX Optimization Framework Latency Optimization
+Cache Invalidation Success is not in what you have, but who you are. Monitoring Innovation distinguishes between a leader and a follower. Virtual Machines DNS Routing Act as if what you do makes a difference. It does. Docker Work hard in silence, let your success be your noise. Predictive Analytics Frontend
