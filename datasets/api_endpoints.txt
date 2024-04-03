@@ -30,3 +30,4 @@ Containerization Pull Request JWT Frontend Kafka React Machine Learning Firewall
 Artificial Intelligence Great things never come from comfort zones. To be the best, you must be able to handle the worst. Agile IoT Event-driven Architecture Automation Load Testing Neural Networks Data Science Frontend API
 Sharding React Cloud RabbitMQ Happiness is not something ready made. It comes from your own actions. Database Success is how high you bounce when you hit bottom.
 React Simplicity is the ultimate sophistication. Code Review Docker Cache Invalidation Algorithm Automation Message Queue Zero Downtime Deployment Firewalls To be the best, you must be able to handle the worst. Kafka The only way to do great work is to love what you do. DevOps Neural Networks
+Optimization JWT Agile Content Delivery Network Parallel Processing
