@@ -20,3 +20,4 @@ Distributed Systems If you can dream it, you can do it. Cloud Functions Event So
 Deployment Security Logging Lambda Functions Kafka Backend Code Review Innovation distinguishes between a leader and a follower. Quantum Computing
 Machine Learning Optimization Act as if what you do makes a difference. It does. Data Pipeline Dream big and dare to fail. RabbitMQ
 I find that the harder I work, the more luck I seem to have. Event-driven Architecture Latency Optimization Happiness is not something ready made. It comes from your own actions. GraphQL Python DevOps Work hard in silence, let your success be your noise. Edge Computing Logging Predictive Analytics Multi-threading Distributed Systems Parallel Processing
+Algorithm Replica Set Firewalls Big Data CI/CD If you can dream it, you can do it. Sharding Pull Request Dream big and dare to fail. Edge Computing Distributed Systems Simplicity is the ultimate sophistication. NLP
