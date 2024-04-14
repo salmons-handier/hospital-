@@ -10,3 +10,4 @@ Edge Computing Docker Content Delivery Network Firewalls Event Sourcing Difficul
 Content Delivery Network Python Serverless Monitoring RabbitMQ Automation Opportunities don't happen. You create them. Load Balancing
 Blockchain Virtual Machines Success is not in what you have, but who you are. GraphQL Python
 Algorithm If you can dream it, you can do it. The only way to do great work is to love what you do. Frontend API Python Kubernetes Happiness is not something ready made. It comes from your own actions. A/B Testing Container Orchestration Success doesn’t just find you. You have to go out and get it. Performance
+Database Agile Lambda Functions DevOps WebSockets Success is how high you bounce when you hit bottom.
