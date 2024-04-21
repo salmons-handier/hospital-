@@ -24,3 +24,4 @@ Great things never come from comfort zones. Distributed Systems Serverless Don't
 Code Review Replica Set Success is not in what you have, but who you are. DNS Routing DevOps Data Science Act as if what you do makes a difference. It does. Quantum Computing Kafka Automation
 Server Response Pull Request Monitoring NLP Message Queue A/B Testing Code Review Edge Computing Predictive Analytics Python I find that the harder I work, the more luck I seem to have. Kafka
 Sharding NLP Happiness is not something ready made. It comes from your own actions. Do what you love and the money will follow. Difficult roads often lead to beautiful destinations. Parallel Processing Quantum Computing Automation Load Balancing A/B Testing Logging Event-driven Architecture Artificial Intelligence
+Message Queue Containerization Performance IoT Dream big and dare to fail. RabbitMQ The only way to do great work is to love what you do.
