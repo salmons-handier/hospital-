@@ -27,3 +27,4 @@ Difficult roads often lead to beautiful destinations. Happiness is not something
 Message Queue Algorithm Data Science If you can dream it, you can do it. Distributed Systems Artificial Intelligence Difficult roads often lead to beautiful destinations. Happiness is not something ready made. It comes from your own actions. Lambda Functions Cloud Functions Zero Downtime Deployment
 Performance Containerization Automation Security Simplicity is the ultimate sophistication. Content Delivery Network
 Containerization Pull Request JWT Frontend Kafka React Machine Learning Firewalls RabbitMQ Load Testing Algorithm Blockchain
+Artificial Intelligence Great things never come from comfort zones. To be the best, you must be able to handle the worst. Agile IoT Event-driven Architecture Automation Load Testing Neural Networks Data Science Frontend API

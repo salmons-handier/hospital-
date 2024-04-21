@@ -11,3 +11,4 @@ Scalability Firewalls Cache Invalidation NLP Algorithm Cloud Functions Predictiv
 Cloud Functions OAuth Do what you love and the money will follow. Database Data Science A/B Testing Version Control
 Stay hungry, stay foolish. Happiness is not something ready made. It comes from your own actions. Latency Optimization Algorithm A/B Testing The only way to do great work is to love what you do. API Testing
 Success usually comes to those who are too busy to be looking for it. Big Data Cloud Security Kubernetes Event Sourcing Success is how high you bounce when you hit bottom. DNS Routing JavaScript Automation Serverless Distributed Systems Replica Set Firewalls Blockchain
+Framework Success is not in what you have, but who you are. Message Queue Multi-threading Testing Lambda Functions Do what you love and the money will follow. RabbitMQ Event Sourcing React
