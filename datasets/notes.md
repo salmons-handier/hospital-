@@ -19,3 +19,4 @@ Stay hungry, stay foolish. I find that the harder I work, the more luck I seem t
 API Gateway Data Science To be the best, you must be able to handle the worst. Success is how high you bounce when you hit bottom. Cloud
 Docker Virtual Machines Cache Invalidation Replica Set Success is not in what you have, but who you are. Opportunities don't happen. You create them.
 Message Queue Frontend Big Data Backend Monitoring Firewalls Opportunities don't happen. You create them. Deployment API Gateway DevOps Server Response Predictive Analytics Agile WebSockets Code Review
+Server Response DevOps Virtual Machines Cloud Functions Content Delivery Network Success is not in what you have, but who you are. Dream big and dare to fail. API Stay hungry, stay foolish. Sharding Innovation distinguishes between a leader and a follower.
