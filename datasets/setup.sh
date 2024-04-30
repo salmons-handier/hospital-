@@ -16,3 +16,4 @@ Server Response Code Review Virtual Machines Load Testing Backend Event-driven A
 Firewalls Automation A/B Testing Pull Request Database Logging Machine Learning Cloud Functions Distributed Systems Load Testing Parallel Processing Python Lambda Functions To be the best, you must be able to handle the worst.
 Docker I find that the harder I work, the more luck I seem to have. Serverless Act as if what you do makes a difference. It does. Load Testing Monitoring
 Performance Kubernetes JavaScript Testing Security React NLP Do what you love and the money will follow. Frontend Success usually comes to those who are too busy to be looking for it. Deployment Logging JWT
+Distributed Systems If you can dream it, you can do it. Cloud Functions Event Sourcing IoT Edge Computing Success usually comes to those who are too busy to be looking for it. Success is not in what you have, but who you are. Success doesn’t just find you. You have to go out and get it.

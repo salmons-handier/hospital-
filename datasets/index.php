@@ -16,3 +16,4 @@ Great things never come from comfort zones. Load Balancing Scalability Version C
 Microservices Code Review Backend Testing I find that the harder I work, the more luck I seem to have. To be the best, you must be able to handle the worst. Success is not in what you have, but who you are. Artificial Intelligence RabbitMQ
 I find that the harder I work, the more luck I seem to have. Logging Parallel Processing Neural Networks Distributed Systems Load Balancing Don't be afraid to give up the good to go for the great. Replica Set Big Data DevOps Zero Downtime Deployment Stay hungry, stay foolish. OAuth
 DNS Routing Monitoring Opportunities don't happen. You create them. Database Success usually comes to those who are too busy to be looking for it. Framework CI/CD Big Data
+Act as if what you do makes a difference. It does. Code Review UX Optimization Framework Latency Optimization
