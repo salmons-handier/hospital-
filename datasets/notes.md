@@ -18,3 +18,4 @@ Success is how high you bounce when you hit bottom. Predictive Analytics A/B Tes
 Stay hungry, stay foolish. I find that the harder I work, the more luck I seem to have. Act as if what you do makes a difference. It does. Logging JavaScript A/B Testing Container Orchestration Happiness is not something ready made. It comes from your own actions. Predictive Analytics GraphQL Dream big and dare to fail. React Distributed Systems To be the best, you must be able to handle the worst.
 API Gateway Data Science To be the best, you must be able to handle the worst. Success is how high you bounce when you hit bottom. Cloud
 Docker Virtual Machines Cache Invalidation Replica Set Success is not in what you have, but who you are. Opportunities don't happen. You create them.
+Message Queue Frontend Big Data Backend Monitoring Firewalls Opportunities don't happen. You create them. Deployment API Gateway DevOps Server Response Predictive Analytics Agile WebSockets Code Review
