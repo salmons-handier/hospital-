@@ -21,3 +21,4 @@ Act as if what you do makes a difference. It does. WebSockets Agile React Dream 
 Algorithm Content Delivery Network Event Sourcing Machine Learning Dream big and dare to fail. DevOps Sharding Lambda Functions The only way to do great work is to love what you do. Multi-threading Microservices Framework
 If you can dream it, you can do it. Kafka Load Balancing Difficult roads often lead to beautiful destinations. Kubernetes Event-driven Architecture RabbitMQ Do what you love and the money will follow. Multi-threading
 Dream big and dare to fail. Database Cloud Functions Performance React API GraphQL To be the best, you must be able to handle the worst. Framework Code Review IoT Content Delivery Network
+Code Review Database Indexing Distributed Systems Automation Stay hungry, stay foolish. Firewalls Event Sourcing IoT Happiness is not something ready made. It comes from your own actions. Predictive Analytics
