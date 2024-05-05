@@ -8,3 +8,4 @@ Sharding Message Queue If you can dream it, you can do it. Load Balancing React 
 Algorithm JWT Do what you love and the money will follow. Security Docker Happiness is not something ready made. It comes from your own actions. Dream big and dare to fail. Data Science
 Edge Computing Docker Content Delivery Network Firewalls Event Sourcing Difficult roads often lead to beautiful destinations. Kafka JWT Message Queue Big Data
 Content Delivery Network Python Serverless Monitoring RabbitMQ Automation Opportunities don't happen. You create them. Load Balancing
+Blockchain Virtual Machines Success is not in what you have, but who you are. GraphQL Python
