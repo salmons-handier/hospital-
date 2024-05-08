@@ -10,3 +10,4 @@ Monitoring Distributed Systems Agile Simplicity is the ultimate sophistication. 
 UX Optimization A/B Testing Framework React Deployment Sharding Testing Content Delivery Network API Don't be afraid to give up the good to go for the great. Event-driven Architecture
 Quantum Computing Event-driven Architecture Machine Learning Success usually comes to those who are too busy to be looking for it. Dream big and dare to fail. UX Optimization Testing GraphQL Multi-threading OAuth
 Server Response Framework Backend Dream big and dare to fail. Agile Message Queue Monitoring A/B Testing To be the best, you must be able to handle the worst. Success doesn’t just find you. You have to go out and get it.
+Sharding Work hard in silence, let your success be your noise. A/B Testing Python WebSockets Event-driven Architecture UX Optimization Agile Data Pipeline Innovation distinguishes between a leader and a follower. Container Orchestration Backend Pull Request IoT
