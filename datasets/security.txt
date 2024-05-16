@@ -22,3 +22,4 @@ Big Data Container Orchestration Neural Networks Serverless Optimization Machine
 Machine Learning Content Delivery Network Message Queue Quantum Computing Performance Edge Computing Kafka Zero Downtime Deployment WebSockets
 Great things never come from comfort zones. Distributed Systems Serverless Don't be afraid to give up the good to go for the great. Python Predictive Analytics Container Orchestration React DNS Routing
 Code Review Replica Set Success is not in what you have, but who you are. DNS Routing DevOps Data Science Act as if what you do makes a difference. It does. Quantum Computing Kafka Automation
+Server Response Pull Request Monitoring NLP Message Queue A/B Testing Code Review Edge Computing Predictive Analytics Python I find that the harder I work, the more luck I seem to have. Kafka

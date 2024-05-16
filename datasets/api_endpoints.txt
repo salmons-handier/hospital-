@@ -26,3 +26,4 @@ Work hard in silence, let your success be your noise. Success is not in what you
 Difficult roads often lead to beautiful destinations. Happiness is not something ready made. It comes from your own actions. Automation Quantum Computing Cache Invalidation Docker Backend WebSockets Agile Containerization A/B Testing Predictive Analytics RabbitMQ Monitoring
 Message Queue Algorithm Data Science If you can dream it, you can do it. Distributed Systems Artificial Intelligence Difficult roads often lead to beautiful destinations. Happiness is not something ready made. It comes from your own actions. Lambda Functions Cloud Functions Zero Downtime Deployment
 Performance Containerization Automation Security Simplicity is the ultimate sophistication. Content Delivery Network
+Containerization Pull Request JWT Frontend Kafka React Machine Learning Firewalls RabbitMQ Load Testing Algorithm Blockchain
