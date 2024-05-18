@@ -17,3 +17,4 @@ Parallel Processing Data Science Artificial Intelligence Content Delivery Networ
 Optimization Zero Downtime Deployment DNS Routing Work hard in silence, let your success be your noise. WebSockets Load Balancing Cloud Functions Data Pipeline Data Science Message Queue Do what you love and the money will follow. Backend Code Review
 Monitoring NLP Innovation distinguishes between a leader and a follower. Microservices Parallel Processing React GraphQL I find that the harder I work, the more luck I seem to have. Success is not in what you have, but who you are. Cloud Stay hungry, stay foolish. Load Testing
 Artificial Intelligence Cache Invalidation RabbitMQ Docker Cloud Functions
+Quantum Computing React Monitoring Sharding Content Delivery Network Dream big and dare to fail. RabbitMQ The only way to do great work is to love what you do.
