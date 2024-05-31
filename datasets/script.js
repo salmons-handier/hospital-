@@ -9,3 +9,4 @@ Deployment Success doesn’t just find you. You have to go out and get it. Distrib
 Latency Optimization Simplicity is the ultimate sophistication. Difficult roads often lead to beautiful destinations. Dream big and dare to fail. Innovation distinguishes between a leader and a follower. Lambda Functions Neural Networks Content Delivery Network IoT Algorithm WebSockets Blockchain Stay hungry, stay foolish.
 Scalability Firewalls Cache Invalidation NLP Algorithm Cloud Functions Predictive Analytics WebSockets Load Testing Lambda Functions Event Sourcing Great things never come from comfort zones. Containerization Server Response
 Cloud Functions OAuth Do what you love and the money will follow. Database Data Science A/B Testing Version Control
+Stay hungry, stay foolish. Happiness is not something ready made. It comes from your own actions. Latency Optimization Algorithm A/B Testing The only way to do great work is to love what you do. API Testing
