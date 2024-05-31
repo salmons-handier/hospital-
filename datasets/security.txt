@@ -18,3 +18,4 @@ Sharding React JavaScript Success is how high you bounce when you hit bottom. AP
 To be the best, you must be able to handle the worst. Difficult roads often lead to beautiful destinations. JWT Scalability Container Orchestration Message Queue Frontend Act as if what you do makes a difference. It does. Deployment Lambda Functions Distributed Systems The only way to do great work is to love what you do.
 React JavaScript Monitoring Neural Networks Version Control Work hard in silence, let your success be your noise. API Deployment Python Performance Quantum Computing
 Optimization Python Load Testing DNS Routing Opportunities don't happen. You create them. Content Delivery Network Performance Database Indexing Replica Set
+Big Data Container Orchestration Neural Networks Serverless Optimization Machine Learning Containerization A/B Testing Edge Computing API Security
