@@ -18,3 +18,4 @@ Success doesn’t just find you. You have to go out and get it. Blockchain Databas
 Sharding Cloud Functions DevOps Cloud WebSockets A/B Testing The only way to do great work is to love what you do. Performance React Load Testing
 Great things never come from comfort zones. Cloud Functions Content Delivery Network API Gateway NLP Parallel Processing Data Science Server Response Performance JWT Kafka Simplicity is the ultimate sophistication. Event-driven Architecture Container Orchestration
 Act as if what you do makes a difference. It does. WebSockets Agile React Dream big and dare to fail. Framework Latency Optimization Cloud Functions GraphQL
+Algorithm Content Delivery Network Event Sourcing Machine Learning Dream big and dare to fail. DevOps Sharding Lambda Functions The only way to do great work is to love what you do. Multi-threading Microservices Framework
