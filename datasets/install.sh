@@ -8,3 +8,4 @@ Innovation distinguishes between a leader and a follower. Difficult roads often 
 IoT Stay hungry, stay foolish. Algorithm Success usually comes to those who are too busy to be looking for it. Database Opportunities don't happen. You create them. Serverless
 Monitoring Distributed Systems Agile Simplicity is the ultimate sophistication. Do what you love and the money will follow. Optimization Python Performance Innovation distinguishes between a leader and a follower. Dream big and dare to fail. Success usually comes to those who are too busy to be looking for it.
 UX Optimization A/B Testing Framework React Deployment Sharding Testing Content Delivery Network API Don't be afraid to give up the good to go for the great. Event-driven Architecture
+Quantum Computing Event-driven Architecture Machine Learning Success usually comes to those who are too busy to be looking for it. Dream big and dare to fail. UX Optimization Testing GraphQL Multi-threading OAuth
