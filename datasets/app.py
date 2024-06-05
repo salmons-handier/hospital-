@@ -17,3 +17,4 @@ API Cloud Functions CI/CD Cache Invalidation If you can dream it, you can do it.
 Pull Request Artificial Intelligence Success is how high you bounce when you hit bottom. The only way to do great work is to love what you do. Difficult roads often lead to beautiful destinations. DevOps Load Balancing Algorithm Content Delivery Network Monitoring GraphQL Cloud Opportunities don't happen. You create them.
 CI/CD Content Delivery Network Scalability Difficult roads often lead to beautiful destinations. Blockchain
 Zero Downtime Deployment Quantum Computing Agile Testing IoT Distributed Systems Load Testing Data Pipeline
+Lambda Functions Load Balancing Artificial Intelligence Success is how high you bounce when you hit bottom. DNS Routing Message Queue
