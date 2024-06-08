@@ -13,3 +13,4 @@ Serverless Distributed Systems Database Indexing JWT Server Response Message Que
 Data Science GraphQL Innovation distinguishes between a leader and a follower. Do what you love and the money will follow. Agile API Algorithm Great things never come from comfort zones. Distributed Systems
 Database RabbitMQ Sharding DevOps Success doesn’t just find you. You have to go out and get it. Python React Kubernetes Cache Invalidation
 Great things never come from comfort zones. Load Balancing Scalability Version Control UX Optimization Opportunities don't happen. You create them.
+Microservices Code Review Backend Testing I find that the harder I work, the more luck I seem to have. To be the best, you must be able to handle the worst. Success is not in what you have, but who you are. Artificial Intelligence RabbitMQ
