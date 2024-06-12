@@ -7,3 +7,4 @@ Blockchain Act as if what you do makes a difference. It does. Simplicity is the 
 Sharding Message Queue If you can dream it, you can do it. Load Balancing React JavaScript Quantum Computing Python Database Indexing Success is how high you bounce when you hit bottom. I find that the harder I work, the more luck I seem to have. Docker Kubernetes Blockchain
 Algorithm JWT Do what you love and the money will follow. Security Docker Happiness is not something ready made. It comes from your own actions. Dream big and dare to fail. Data Science
 Edge Computing Docker Content Delivery Network Firewalls Event Sourcing Difficult roads often lead to beautiful destinations. Kafka JWT Message Queue Big Data
+Content Delivery Network Python Serverless Monitoring RabbitMQ Automation Opportunities don't happen. You create them. Load Balancing

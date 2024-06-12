@@ -15,3 +15,4 @@ RabbitMQ Simplicity is the ultimate sophistication. Cloud Functions GraphQL OAut
 Blockchain Virtual Machines JWT OAuth Big Data DevOps
 Deployment Difficult roads often lead to beautiful destinations. A/B Testing Sharding Kubernetes Great things never come from comfort zones. Zero Downtime Deployment Version Control Machine Learning
 Success doesn’t just find you. You have to go out and get it. Blockchain Database Framework GraphQL Success is how high you bounce when you hit bottom. Database Indexing JWT NLP The only way to do great work is to love what you do.
+Sharding Cloud Functions DevOps Cloud WebSockets A/B Testing The only way to do great work is to love what you do. Performance React Load Testing
