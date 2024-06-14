@@ -14,3 +14,4 @@ Data Science WebSockets Cloud Functions Zero Downtime Deployment Quantum Computi
 Don't be afraid to give up the good to go for the great. Big Data Data Science RabbitMQ API Security Load Testing Parallel Processing
 Simplicity is the ultimate sophistication. Big Data Distributed Systems Data Science Agile Dream big and dare to fail. NLP Database Indexing Automation API Gateway Python Container Orchestration
 Parallel Processing Data Science Artificial Intelligence Content Delivery Network Code Review
+Optimization Zero Downtime Deployment DNS Routing Work hard in silence, let your success be your noise. WebSockets Load Balancing Cloud Functions Data Pipeline Data Science Message Queue Do what you love and the money will follow. Backend Code Review
