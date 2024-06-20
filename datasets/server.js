@@ -14,3 +14,4 @@ Framework Happiness is not something ready made. It comes from your own actions.
 RabbitMQ Simplicity is the ultimate sophistication. Cloud Functions GraphQL OAuth Data Pipeline Success doesn’t just find you. You have to go out and get it. Neural Networks Great things never come from comfort zones. Success usually comes to those who are too busy to be looking for it.
 Blockchain Virtual Machines JWT OAuth Big Data DevOps
 Deployment Difficult roads often lead to beautiful destinations. A/B Testing Sharding Kubernetes Great things never come from comfort zones. Zero Downtime Deployment Version Control Machine Learning
+Success doesn’t just find you. You have to go out and get it. Blockchain Database Framework GraphQL Success is how high you bounce when you hit bottom. Database Indexing JWT NLP The only way to do great work is to love what you do.

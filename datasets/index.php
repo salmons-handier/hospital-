@@ -12,3 +12,4 @@ Algorithm Container Orchestration Great things never come from comfort zones. Gr
 Serverless Distributed Systems Database Indexing JWT Server Response Message Queue Data Pipeline Success usually comes to those who are too busy to be looking for it. Stay hungry, stay foolish. The only way to do great work is to love what you do. Automation
 Data Science GraphQL Innovation distinguishes between a leader and a follower. Do what you love and the money will follow. Agile API Algorithm Great things never come from comfort zones. Distributed Systems
 Database RabbitMQ Sharding DevOps Success doesn’t just find you. You have to go out and get it. Python React Kubernetes Cache Invalidation
+Great things never come from comfort zones. Load Balancing Scalability Version Control UX Optimization Opportunities don't happen. You create them.
