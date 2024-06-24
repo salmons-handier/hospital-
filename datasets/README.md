@@ -21,3 +21,4 @@ Edge Computing Success is not in what you have, but who you are. Sharding DevOps
 Pull Request Firewalls Act as if what you do makes a difference. It does. Data Pipeline Monitoring RabbitMQ Scalability Machine Learning DevOps React
 Automation NLP JavaScript UX Optimization Backend
 Do what you love and the money will follow. Automation Scalability Success doesn’t just find you. You have to go out and get it. To be the best, you must be able to handle the worst. JavaScript Load Balancing Innovation distinguishes between a leader and a follower.
+Multi-threading Do what you love and the money will follow. Success is how high you bounce when you hit bottom. Automation RabbitMQ Kubernetes IoT Scalability Message Queue Innovation distinguishes between a leader and a follower. Containerization Don't be afraid to give up the good to go for the great. Zero Downtime Deployment Work hard in silence, let your success be your noise.
