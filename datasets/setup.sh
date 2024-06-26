@@ -10,3 +10,4 @@ Success doesn’t just find you. You have to go out and get it. If you can dream i
 JavaScript Code Review Cache Invalidation CI/CD Predictive Analytics Message Queue React Data Science Act as if what you do makes a difference. It does. Great things never come from comfort zones. Happiness is not something ready made. It comes from your own actions. Load Testing
 Success is not in what you have, but who you are. Backend React Deployment Neural Networks
 Load Testing Frontend I find that the harder I work, the more luck I seem to have. DevOps Agile Kafka Performance Act as if what you do makes a difference. It does. Edge Computing Monitoring Logging Code Review Big Data A/B Testing Optimization
+Security Work hard in silence, let your success be your noise. Artificial Intelligence Neural Networks Scalability Stay hungry, stay foolish. Optimization Frontend Cloud Functions Kubernetes Performance
