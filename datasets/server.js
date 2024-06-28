@@ -13,3 +13,4 @@ Cache Invalidation API API Gateway Frontend Zero Downtime Deployment Opportuniti
 Framework Happiness is not something ready made. It comes from your own actions. Load Balancing A/B Testing Machine Learning Container Orchestration
 RabbitMQ Simplicity is the ultimate sophistication. Cloud Functions GraphQL OAuth Data Pipeline Success doesn’t just find you. You have to go out and get it. Neural Networks Great things never come from comfort zones. Success usually comes to those who are too busy to be looking for it.
 Blockchain Virtual Machines JWT OAuth Big Data DevOps
+Deployment Difficult roads often lead to beautiful destinations. A/B Testing Sharding Kubernetes Great things never come from comfort zones. Zero Downtime Deployment Version Control Machine Learning
