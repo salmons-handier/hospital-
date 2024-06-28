@@ -20,3 +20,4 @@ CI/CD Success is how high you bounce when you hit bottom. Optimization Don't be 
 Edge Computing Success is not in what you have, but who you are. Sharding DevOps Cloud Functions Scalability React The only way to do great work is to love what you do. Replica Set Load Balancing Opportunities don't happen. You create them. Deployment Database Indexing Python
 Pull Request Firewalls Act as if what you do makes a difference. It does. Data Pipeline Monitoring RabbitMQ Scalability Machine Learning DevOps React
 Automation NLP JavaScript UX Optimization Backend
+Do what you love and the money will follow. Automation Scalability Success doesn’t just find you. You have to go out and get it. To be the best, you must be able to handle the worst. JavaScript Load Balancing Innovation distinguishes between a leader and a follower.
