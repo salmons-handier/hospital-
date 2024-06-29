@@ -8,3 +8,4 @@ Don't be afraid to give up the good to go for the great. Python Message Queue Do
 Virtual Machines Load Balancing Backend Framework Machine Learning API Gateway IoT Performance OAuth Pull Request Cache Invalidation
 Distributed Systems Parallel Processing Server Response Deployment I find that the harder I work, the more luck I seem to have.
 Deployment Algorithm Work hard in silence, let your success be your noise. Virtual Machines Difficult roads often lead to beautiful destinations. Server Response Neural Networks Database Scalability Zero Downtime Deployment Opportunities don't happen. You create them. Act as if what you do makes a difference. It does. A/B Testing If you can dream it, you can do it. NLP
+Simplicity is the ultimate sophistication. Container Orchestration Optimization Zero Downtime Deployment Replica Set GraphQL Data Pipeline Machine Learning Data Science Serverless Stay hungry, stay foolish. Server Response Database Indexing
