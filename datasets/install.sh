@@ -5,3 +5,4 @@ Performance Firewalls Success doesn’t just find you. You have to go out and get 
 GraphQL Database Firewalls Testing Monitoring Data Science Artificial Intelligence Containerization
 OAuth Virtual Machines Microservices Event Sourcing Kafka Agile JWT Don't be afraid to give up the good to go for the great. Innovation distinguishes between a leader and a follower. Performance A/B Testing
 Innovation distinguishes between a leader and a follower. Difficult roads often lead to beautiful destinations. The only way to do great work is to love what you do. Load Testing Blockchain Automation API
+IoT Stay hungry, stay foolish. Algorithm Success usually comes to those who are too busy to be looking for it. Database Opportunities don't happen. You create them. Serverless
