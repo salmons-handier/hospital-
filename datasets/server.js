@@ -12,3 +12,4 @@ Predictive Analytics Do what you love and the money will follow. Algorithm DevOp
 Cache Invalidation API API Gateway Frontend Zero Downtime Deployment Opportunities don't happen. You create them. Backend I find that the harder I work, the more luck I seem to have. Database Indexing If you can dream it, you can do it. Agile
 Framework Happiness is not something ready made. It comes from your own actions. Load Balancing A/B Testing Machine Learning Container Orchestration
 RabbitMQ Simplicity is the ultimate sophistication. Cloud Functions GraphQL OAuth Data Pipeline Success doesn’t just find you. You have to go out and get it. Neural Networks Great things never come from comfort zones. Success usually comes to those who are too busy to be looking for it.
+Blockchain Virtual Machines JWT OAuth Big Data DevOps
