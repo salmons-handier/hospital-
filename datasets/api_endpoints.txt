@@ -19,3 +19,4 @@ Distributed Systems Zero Downtime Deployment Backend Load Balancing Frontend
 Opportunities don't happen. You create them. Great things never come from comfort zones. Frontend To be the best, you must be able to handle the worst. Multi-threading Load Testing
 Innovation distinguishes between a leader and a follower. A/B Testing Docker Database Indexing Scalability Cache Invalidation Difficult roads often lead to beautiful destinations. Firewalls Quantum Computing Data Science
 Testing A/B Testing Framework Do what you love and the money will follow. Docker Cache Invalidation Kafka Don't be afraid to give up the good to go for the great. Version Control Kubernetes Frontend Deployment
+API Gateway Virtual Machines React Cloud Big Data WebSockets Deployment Lambda Functions JWT A/B Testing Don't be afraid to give up the good to go for the great.
