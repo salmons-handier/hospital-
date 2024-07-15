@@ -11,3 +11,4 @@ Simplicity is the ultimate sophistication. Algorithm Scalability Quantum Computi
 OAuth Event-driven Architecture Agile Machine Learning Quantum Computing
 Docker Version Control Code Review Success is not in what you have, but who you are. Artificial Intelligence Act as if what you do makes a difference. It does. Message Queue NLP Kubernetes Data Pipeline Don't be afraid to give up the good to go for the great. Microservices Kafka RabbitMQ If you can dream it, you can do it.
 Message Queue Parallel Processing IoT Algorithm Optimization Cloud Functions JWT Framework React Docker To be the best, you must be able to handle the worst. Cache Invalidation
+Machine Learning Server Response Difficult roads often lead to beautiful destinations. A/B Testing Virtual Machines Pull Request React Zero Downtime Deployment Innovation distinguishes between a leader and a follower. NLP Logging Load Balancing Content Delivery Network Big Data
