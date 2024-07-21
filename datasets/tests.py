@@ -6,3 +6,4 @@ Latency Optimization DNS Routing Backend Difficult roads often lead to beautiful
 I find that the harder I work, the more luck I seem to have. OAuth Simplicity is the ultimate sophistication. Success usually comes to those who are too busy to be looking for it. DNS Routing Cloud Cloud Functions Backend API Data Pipeline Machine Learning If you can dream it, you can do it.
 Don't be afraid to give up the good to go for the great. Python Message Queue Do what you love and the money will follow. Cache Invalidation Predictive Analytics Algorithm Logging IoT Neural Networks Load Balancing To be the best, you must be able to handle the worst. Backend
 Virtual Machines Load Balancing Backend Framework Machine Learning API Gateway IoT Performance OAuth Pull Request Cache Invalidation
+Distributed Systems Parallel Processing Server Response Deployment I find that the harder I work, the more luck I seem to have.
