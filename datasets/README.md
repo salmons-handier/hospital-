@@ -18,3 +18,4 @@ Replica Set Logging Great things never come from comfort zones. Monitoring Act a
 RabbitMQ DNS Routing Artificial Intelligence Sharding Microservices Frontend Deployment Cache Invalidation
 CI/CD Success is how high you bounce when you hit bottom. Optimization Don't be afraid to give up the good to go for the great. Testing Docker Load Balancing
 Edge Computing Success is not in what you have, but who you are. Sharding DevOps Cloud Functions Scalability React The only way to do great work is to love what you do. Replica Set Load Balancing Opportunities don't happen. You create them. Deployment Database Indexing Python
+Pull Request Firewalls Act as if what you do makes a difference. It does. Data Pipeline Monitoring RabbitMQ Scalability Machine Learning DevOps React
