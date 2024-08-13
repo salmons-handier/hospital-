@@ -10,3 +10,4 @@ Backend Lambda Functions Success is not in what you have, but who you are. Front
 Python DevOps Event-driven Architecture Message Queue CI/CD Pull Request
 Predictive Analytics Do what you love and the money will follow. Algorithm DevOps Testing Pull Request Cloud Content Delivery Network Blockchain
 Cache Invalidation API API Gateway Frontend Zero Downtime Deployment Opportunities don't happen. You create them. Backend I find that the harder I work, the more luck I seem to have. Database Indexing If you can dream it, you can do it. Agile
+Framework Happiness is not something ready made. It comes from your own actions. Load Balancing A/B Testing Machine Learning Container Orchestration
