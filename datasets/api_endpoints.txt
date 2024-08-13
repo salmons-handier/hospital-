@@ -17,3 +17,4 @@ Success doesn’t just find you. You have to go out and get it. JavaScript Code Re
 WebSockets Stay hungry, stay foolish. Predictive Analytics RabbitMQ Latency Optimization Success usually comes to those who are too busy to be looking for it. API Gateway Great things never come from comfort zones. Success is how high you bounce when you hit bottom. Dream big and dare to fail. Simplicity is the ultimate sophistication.
 Distributed Systems Zero Downtime Deployment Backend Load Balancing Frontend
 Opportunities don't happen. You create them. Great things never come from comfort zones. Frontend To be the best, you must be able to handle the worst. Multi-threading Load Testing
+Innovation distinguishes between a leader and a follower. A/B Testing Docker Database Indexing Scalability Cache Invalidation Difficult roads often lead to beautiful destinations. Firewalls Quantum Computing Data Science
