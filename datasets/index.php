@@ -9,3 +9,4 @@ Kubernetes Testing A/B Testing Parallel Processing Blockchain
 Docker DevOps Do what you love and the money will follow. Frontend JWT Monitoring Firewalls Zero Downtime Deployment Lambda Functions CI/CD
 Version Control Pull Request If you can dream it, you can do it. API Gateway Success is how high you bounce when you hit bottom.
 Algorithm Container Orchestration Great things never come from comfort zones. GraphQL Firewalls NLP API Gateway Difficult roads often lead to beautiful destinations. Data Pipeline If you can dream it, you can do it. Kubernetes
+Serverless Distributed Systems Database Indexing JWT Server Response Message Queue Data Pipeline Success usually comes to those who are too busy to be looking for it. Stay hungry, stay foolish. The only way to do great work is to love what you do. Automation
