@@ -5,3 +5,4 @@ Virtual Machines Content Delivery Network NLP Replica Set Database Python React 
 Quantum Computing Serverless Logging Predictive Analytics Success doesn’t just find you. You have to go out and get it. Event-driven Architecture Happiness is not something ready made. It comes from your own actions. Database Indexing Simplicity is the ultimate sophistication.
 Code Review Cloud Functions Difficult roads often lead to beautiful destinations. Kubernetes Content Delivery Network Virtual Machines Blockchain NLP Version Control Server Response React Backend Great things never come from comfort zones. Distributed Systems
 Virtual Machines GraphQL Content Delivery Network UX Optimization Cloud Functions Big Data Lambda Functions Docker
+Deployment Success doesn’t just find you. You have to go out and get it. JWT Server Response Optimization Zero Downtime Deployment Serverless Work hard in silence, let your success be your noise. NLP
