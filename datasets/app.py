@@ -12,3 +12,4 @@ Algorithm Agile Lambda Functions Deployment Containerization Neural Networks Edg
 API Gateway Cache Invalidation Code Review Parallel Processing Agile Pull Request Load Balancing Content Delivery Network Replica Set
 Latency Optimization Backend Cache Invalidation Server Response Cloud Functions CI/CD API React Do what you love and the money will follow. Performance
 Python Pull Request React WebSockets Kubernetes Cache Invalidation Success usually comes to those who are too busy to be looking for it. Docker Artificial Intelligence Happiness is not something ready made. It comes from your own actions. UX Optimization
+Content Delivery Network IoT Cloud Performance A/B Testing Serverless Frontend Framework Act as if what you do makes a difference. It does. Message Queue Cloud Functions Code Review Optimization API Gateway Success doesn’t just find you. You have to go out and get it.
