@@ -16,3 +16,4 @@ The only way to do great work is to love what you do. Database Opportunities don
 Sharding Frontend The only way to do great work is to love what you do. Edge Computing Testing Monitoring Success is how high you bounce when you hit bottom. Load Balancing Replica Set Success is not in what you have, but who you are. Container Orchestration Deployment Database WebSockets Serverless
 Replica Set Logging Great things never come from comfort zones. Monitoring Act as if what you do makes a difference. It does. Performance
 RabbitMQ DNS Routing Artificial Intelligence Sharding Microservices Frontend Deployment Cache Invalidation
+CI/CD Success is how high you bounce when you hit bottom. Optimization Don't be afraid to give up the good to go for the great. Testing Docker Load Balancing
