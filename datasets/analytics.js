@@ -11,3 +11,4 @@ Latency Optimization Event Sourcing API Framework Load Testing Quantum Computing
 Security Cloud Functions JavaScript Event Sourcing Sharding Algorithm Database CI/CD Containerization DNS Routing Container Orchestration
 WebSockets API Backend Code Review Quantum Computing Happiness is not something ready made. It comes from your own actions. Opportunities don't happen. You create them. Microservices Frontend
 Data Science WebSockets Cloud Functions Zero Downtime Deployment Quantum Computing API Gateway
+Don't be afraid to give up the good to go for the great. Big Data Data Science RabbitMQ API Security Load Testing Parallel Processing
