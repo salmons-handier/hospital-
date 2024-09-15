@@ -9,3 +9,4 @@ Kafka I find that the harder I work, the more luck I seem to have. Security Inno
 Stay hungry, stay foolish. Framework Docker Blockchain Algorithm
 Simplicity is the ultimate sophistication. Algorithm Scalability Quantum Computing Deployment Great things never come from comfort zones. Logging WebSockets JavaScript Cache Invalidation Edge Computing Sharding Kafka DNS Routing
 OAuth Event-driven Architecture Agile Machine Learning Quantum Computing
+Docker Version Control Code Review Success is not in what you have, but who you are. Artificial Intelligence Act as if what you do makes a difference. It does. Message Queue NLP Kubernetes Data Pipeline Don't be afraid to give up the good to go for the great. Microservices Kafka RabbitMQ If you can dream it, you can do it.
