@@ -11,3 +11,4 @@ Security Microservices Load Testing Edge Computing Happiness is not something re
 Security Version Control Backend Great things never come from comfort zones. DNS Routing Frontend Serverless Scalability API Gateway RabbitMQ Docker
 Parallel Processing Big Data Performance Cache Invalidation Don't be afraid to give up the good to go for the great. Event Sourcing Security Optimization Monitoring Deployment Scalability
 Lambda Functions Cloud Monitoring UX Optimization Innovation distinguishes between a leader and a follower.
+Performance API Gateway Distributed Systems Work hard in silence, let your success be your noise. Microservices NLP Server Response Cache Invalidation Dream big and dare to fail. Cloud Functions Event Sourcing Replica Set Difficult roads often lead to beautiful destinations.
