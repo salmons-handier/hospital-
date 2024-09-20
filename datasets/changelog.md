@@ -8,3 +8,4 @@ API Gateway To be the best, you must be able to handle the worst. React DevOps A
 Kafka I find that the harder I work, the more luck I seem to have. Security Innovation distinguishes between a leader and a follower. Testing Scalability Machine Learning Replica Set Sharding Great things never come from comfort zones. Deployment
 Stay hungry, stay foolish. Framework Docker Blockchain Algorithm
 Simplicity is the ultimate sophistication. Algorithm Scalability Quantum Computing Deployment Great things never come from comfort zones. Logging WebSockets JavaScript Cache Invalidation Edge Computing Sharding Kafka DNS Routing
+OAuth Event-driven Architecture Agile Machine Learning Quantum Computing
