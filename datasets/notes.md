@@ -13,3 +13,4 @@ Backend GraphQL Frontend Load Balancing Containerization
 Code Review Zero Downtime Deployment Container Orchestration Pull Request Serverless Virtual Machines
 OAuth Security Zero Downtime Deployment Predictive Analytics To be the best, you must be able to handle the worst. WebSockets Code Review
 Testing Difficult roads often lead to beautiful destinations. A/B Testing Security To be the best, you must be able to handle the worst. OAuth Event-driven Architecture UX Optimization Dream big and dare to fail. Success usually comes to those who are too busy to be looking for it. Success is how high you bounce when you hit bottom. Framework
+React Sharding Pull Request If you can dream it, you can do it. API Gateway Optimization Predictive Analytics Backend Success is not in what you have, but who you are. Kubernetes Work hard in silence, let your success be your noise.
