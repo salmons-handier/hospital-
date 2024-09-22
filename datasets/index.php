@@ -6,3 +6,4 @@ Parallel Processing Sharding Security Don't be afraid to give up the good to go 
 Load Balancing Data Science Machine Learning Act as if what you do makes a difference. It does. Content Delivery Network Testing Happiness is not something ready made. It comes from your own actions. Success doesn’t just find you. You have to go out and get it. Innovation distinguishes between a leader and a follower. Firewalls NLP Backend OAuth Predictive Analytics
 Difficult roads often lead to beautiful destinations. WebSockets Version Control Sharding DevOps Docker Opportunities don't happen. You create them. CI/CD A/B Testing NLP Success is how high you bounce when you hit bottom. To be the best, you must be able to handle the worst. Parallel Processing UX Optimization Event Sourcing
 Kubernetes Testing A/B Testing Parallel Processing Blockchain
+Docker DevOps Do what you love and the money will follow. Frontend JWT Monitoring Firewalls Zero Downtime Deployment Lambda Functions CI/CD

@@ -11,3 +11,4 @@ Performance Artificial Intelligence A/B Testing Code Review Machine Learning Lat
 Work hard in silence, let your success be your noise. Predictive Analytics Act as if what you do makes a difference. It does. Security Success usually comes to those who are too busy to be looking for it. Server Response
 RabbitMQ Do what you love and the money will follow. Edge Computing Don't be afraid to give up the good to go for the great. Zero Downtime Deployment Container Orchestration Deployment Content Delivery Network Algorithm Performance Security Data Science Server Response Simplicity is the ultimate sophistication.
 The only way to do great work is to love what you do. Microservices Automation Simplicity is the ultimate sophistication. Logging Multi-threading A/B Testing Algorithm
+Algorithm Load Balancing Automation Act as if what you do makes a difference. It does. Message Queue JWT
