@@ -9,3 +9,4 @@ Monitoring Message Queue Content Delivery Network Lambda Functions Sharding Late
 I find that the harder I work, the more luck I seem to have. Replica Set API Gateway Testing Data Pipeline
 Stay hungry, stay foolish. Cloud Functions Neural Networks Pull Request Cache Invalidation
 Algorithm Agile Lambda Functions Deployment Containerization Neural Networks Edge Computing Artificial Intelligence Blockchain Distributed Systems
+API Gateway Cache Invalidation Code Review Parallel Processing Agile Pull Request Load Balancing Content Delivery Network Replica Set
