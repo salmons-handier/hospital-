@@ -8,3 +8,4 @@ Frontend Don't be afraid to give up the good to go for the great. Artificial Int
 Monitoring Message Queue Content Delivery Network Lambda Functions Sharding Latency Optimization Don't be afraid to give up the good to go for the great. Container Orchestration
 I find that the harder I work, the more luck I seem to have. Replica Set API Gateway Testing Data Pipeline
 Stay hungry, stay foolish. Cloud Functions Neural Networks Pull Request Cache Invalidation
+Algorithm Agile Lambda Functions Deployment Containerization Neural Networks Edge Computing Artificial Intelligence Blockchain Distributed Systems
