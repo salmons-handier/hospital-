@@ -14,3 +14,4 @@ OAuth Big Data Security Opportunities don't happen. You create them. Python Cont
 Artificial Intelligence Database Indexing Data Pipeline Cloud Functions OAuth Work hard in silence, let your success be your noise. Predictive Analytics Success doesn’t just find you. You have to go out and get it. NLP Virtual Machines Dream big and dare to fail.
 The only way to do great work is to love what you do. Database Opportunities don't happen. You create them. Lambda Functions NLP Load Balancing Virtual Machines Data Pipeline Algorithm Agile
 Sharding Frontend The only way to do great work is to love what you do. Edge Computing Testing Monitoring Success is how high you bounce when you hit bottom. Load Balancing Replica Set Success is not in what you have, but who you are. Container Orchestration Deployment Database WebSockets Serverless
+Replica Set Logging Great things never come from comfort zones. Monitoring Act as if what you do makes a difference. It does. Performance
