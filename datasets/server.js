@@ -8,3 +8,4 @@ Latency Optimization Difficult roads often lead to beautiful destinations. Zero 
 Microservices Success doesn’t just find you. You have to go out and get it. Success is how high you bounce when you hit bottom. Virtual Machines Don't be afraid to give up the good to go for the great. Act as if what you do makes a difference. It does. Work hard in silence, let your success be your noise. Message Queue JavaScript Simplicity is the ultimate sophistication.
 Backend Lambda Functions Success is not in what you have, but who you are. Frontend CI/CD Big Data Distributed Systems RabbitMQ Zero Downtime Deployment React WebSockets JavaScript
 Python DevOps Event-driven Architecture Message Queue CI/CD Pull Request
+Predictive Analytics Do what you love and the money will follow. Algorithm DevOps Testing Pull Request Cloud Content Delivery Network Blockchain
