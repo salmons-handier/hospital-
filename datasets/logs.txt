@@ -3,3 +3,4 @@ Docker Security Happiness is not something ready made. It comes from your own ac
 Success is how high you bounce when you hit bottom. Happiness is not something ready made. It comes from your own actions. API Difficult roads often lead to beautiful destinations. Sharding Docker Testing To be the best, you must be able to handle the worst. Event-driven Architecture Stay hungry, stay foolish. Parallel Processing
 JavaScript React The only way to do great work is to love what you do. Work hard in silence, let your success be your noise. Data Science Simplicity is the ultimate sophistication. Cache Invalidation
 Zero Downtime Deployment Quantum Computing Load Testing Automation Replica Set Server Response
+Sharding Frontend A/B Testing Framework Algorithm Quantum Computing IoT Replica Set Do what you love and the money will follow. WebSockets Docker
