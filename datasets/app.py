@@ -4,3 +4,4 @@ Content Delivery Network Multi-threading Pull Request Code Review Act as if what
 DNS Routing Innovation distinguishes between a leader and a follower. Frontend Code Review Framework React Message Queue Dream big and dare to fail. JavaScript Edge Computing Microservices Opportunities don't happen. You create them.
 Artificial Intelligence API Gateway Logging Pull Request Success is not in what you have, but who you are. JWT Algorithm Opportunities don't happen. You create them. Big Data Kubernetes Replica Set UX Optimization RabbitMQ Load Balancing Success usually comes to those who are too busy to be looking for it.
 Backend UX Optimization DevOps CI/CD Distributed Systems A/B Testing Stay hungry, stay foolish. Blockchain Machine Learning Cache Invalidation
+Frontend Don't be afraid to give up the good to go for the great. Artificial Intelligence Multi-threading Load Balancing
