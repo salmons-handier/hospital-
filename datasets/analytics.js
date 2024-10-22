@@ -7,3 +7,4 @@ Big Data Act as if what you do makes a difference. It does. OAuth Microservices 
 WebSockets Testing Database Server Response Virtual Machines Backend Simplicity is the ultimate sophistication. Success is how high you bounce when you hit bottom. Content Delivery Network
 Microservices Docker Machine Learning WebSockets NLP
 Data Science Event-driven Architecture Success is not in what you have, but who you are. WebSockets Pull Request UX Optimization Backend DNS Routing Database Data Pipeline A/B Testing
+Latency Optimization Event Sourcing API Framework Load Testing Quantum Computing Database Indexing Neural Networks Virtual Machines
