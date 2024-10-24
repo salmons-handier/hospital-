@@ -11,3 +11,4 @@ Success usually comes to those who are too busy to be looking for it. Dream big 
 Load Balancing Version Control Success is not in what you have, but who you are. If you can dream it, you can do it. RabbitMQ Great things never come from comfort zones. Scalability Containerization CI/CD API The only way to do great work is to love what you do. Don't be afraid to give up the good to go for the great. Python Opportunities don't happen. You create them.
 Backend GraphQL Frontend Load Balancing Containerization
 Code Review Zero Downtime Deployment Container Orchestration Pull Request Serverless Virtual Machines
+OAuth Security Zero Downtime Deployment Predictive Analytics To be the best, you must be able to handle the worst. WebSockets Code Review
