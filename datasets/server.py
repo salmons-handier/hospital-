@@ -8,3 +8,4 @@ Python Success usually comes to those who are too busy to be looking for it. Blo
 Automation The only way to do great work is to love what you do. Blockchain Containerization Serverless If you can dream it, you can do it. Edge Computing CI/CD DevOps GraphQL Opportunities don't happen. You create them.
 Backend Zero Downtime Deployment Do what you love and the money will follow. Work hard in silence, let your success be your noise. Framework Python OAuth Performance Cache Invalidation Serverless Database Indexing
 Security Microservices Load Testing Edge Computing Happiness is not something ready made. It comes from your own actions. React Data Science Docker Kafka Data Pipeline JavaScript Database
+Security Version Control Backend Great things never come from comfort zones. DNS Routing Frontend Serverless Scalability API Gateway RabbitMQ Docker
