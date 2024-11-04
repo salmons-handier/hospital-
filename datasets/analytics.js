@@ -5,3 +5,4 @@ Happiness is not something ready made. It comes from your own actions. API Gatew
 Optimization Predictive Analytics Data Science Happiness is not something ready made. It comes from your own actions. Neural Networks Multi-threading React Difficult roads often lead to beautiful destinations. Data Pipeline Sharding Performance
 Big Data Act as if what you do makes a difference. It does. OAuth Microservices Stay hungry, stay foolish.
 WebSockets Testing Database Server Response Virtual Machines Backend Simplicity is the ultimate sophistication. Success is how high you bounce when you hit bottom. Content Delivery Network
+Microservices Docker Machine Learning WebSockets NLP
