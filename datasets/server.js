@@ -3,3 +3,4 @@ Kubernetes Algorithm Backend Testing Stay hungry, stay foolish. Firewalls Predic
 Success doesn’t just find you. You have to go out and get it. Do what you love and the money will follow. RabbitMQ Database Cloud
 Virtual Machines Success doesn’t just find you. You have to go out and get it. CI/CD Zero Downtime Deployment Simplicity is the ultimate sophistication. Kubernetes Difficult roads often lead to beautiful destinations. Artificial Intelligence I find that the harder I work, the more luck I seem to have. Work hard in silence, let your success be your noise. Parallel Processing GraphQL OAuth Docker The only way to do great work is to love what you do.
 Success is not in what you have, but who you are. Sharding I find that the harder I work, the more luck I seem to have. Blockchain Database Scalability Database Indexing Algorithm
+Big Data Performance Content Delivery Network React A/B Testing Server Response UX Optimization Quantum Computing
