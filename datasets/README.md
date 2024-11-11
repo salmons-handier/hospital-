@@ -12,3 +12,4 @@ Success is how high you bounce when you hit bottom. UX Optimization Serverless C
 Pull Request Testing Kubernetes Python Replica Set Virtual Machines Do what you love and the money will follow. A/B Testing API Automation Monitoring Microservices Opportunities don't happen. You create them.
 OAuth Big Data Security Opportunities don't happen. You create them. Python Containerization Stay hungry, stay foolish. Data Science
 Artificial Intelligence Database Indexing Data Pipeline Cloud Functions OAuth Work hard in silence, let your success be your noise. Predictive Analytics Success doesn’t just find you. You have to go out and get it. NLP Virtual Machines Dream big and dare to fail.
+The only way to do great work is to love what you do. Database Opportunities don't happen. You create them. Lambda Functions NLP Load Balancing Virtual Machines Data Pipeline Algorithm Agile
