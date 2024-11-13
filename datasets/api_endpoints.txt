@@ -9,3 +9,4 @@ Virtual Machines Security Cache Invalidation IoT Latency Optimization Neural Net
 Happiness is not something ready made. It comes from your own actions. I find that the harder I work, the more luck I seem to have. Automation Data Science Kubernetes OAuth
 Performance Artificial Intelligence A/B Testing Code Review Machine Learning Latency Optimization
 Work hard in silence, let your success be your noise. Predictive Analytics Act as if what you do makes a difference. It does. Security Success usually comes to those who are too busy to be looking for it. Server Response
+RabbitMQ Do what you love and the money will follow. Edge Computing Don't be afraid to give up the good to go for the great. Zero Downtime Deployment Container Orchestration Deployment Content Delivery Network Algorithm Performance Security Data Science Server Response Simplicity is the ultimate sophistication.
