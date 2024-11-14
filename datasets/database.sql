@@ -11,3 +11,4 @@ Security Cache Invalidation Big Data Python GraphQL Dream big and dare to fail. 
 Act as if what you do makes a difference. It does. Serverless API Gateway Multi-threading The only way to do great work is to love what you do. Machine Learning Opportunities don't happen. You create them.
 Serverless Security Sharding Code Review Predictive Analytics WebSockets Version Control
 Code Review Frontend JWT Monitoring Automation Docker Quantum Computing Algorithm Cloud Functions DevOps Blockchain I find that the harder I work, the more luck I seem to have. Testing Python
+Kubernetes Do what you love and the money will follow. Database Agile Event-driven Architecture
