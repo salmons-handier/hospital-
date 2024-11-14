@@ -12,3 +12,4 @@ Act as if what you do makes a difference. It does. Serverless API Gateway Multi-
 Serverless Security Sharding Code Review Predictive Analytics WebSockets Version Control
 Code Review Frontend JWT Monitoring Automation Docker Quantum Computing Algorithm Cloud Functions DevOps Blockchain I find that the harder I work, the more luck I seem to have. Testing Python
 Kubernetes Do what you love and the money will follow. Database Agile Event-driven Architecture
+Cloud Functions Server Response Success usually comes to those who are too busy to be looking for it. Code Review Deployment Great things never come from comfort zones. Success is how high you bounce when you hit bottom. OAuth Neural Networks Pull Request Agile Cloud API Gateway
