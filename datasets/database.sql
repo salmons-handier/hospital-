@@ -10,3 +10,4 @@ DNS Routing Neural Networks Serverless Database Indexing Innovation distinguishe
 Security Cache Invalidation Big Data Python GraphQL Dream big and dare to fail. Automation Act as if what you do makes a difference. It does. Cloud Success usually comes to those who are too busy to be looking for it. Message Queue JavaScript Database API Content Delivery Network
 Act as if what you do makes a difference. It does. Serverless API Gateway Multi-threading The only way to do great work is to love what you do. Machine Learning Opportunities don't happen. You create them.
 Serverless Security Sharding Code Review Predictive Analytics WebSockets Version Control
+Code Review Frontend JWT Monitoring Automation Docker Quantum Computing Algorithm Cloud Functions DevOps Blockchain I find that the harder I work, the more luck I seem to have. Testing Python
