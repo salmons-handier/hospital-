@@ -11,3 +11,4 @@ IoT Framework Algorithm Load Balancing Lambda Functions Agile To be the best, yo
 Success is how high you bounce when you hit bottom. UX Optimization Serverless Cloud Framework API Gateway Security Virtual Machines
 Pull Request Testing Kubernetes Python Replica Set Virtual Machines Do what you love and the money will follow. A/B Testing API Automation Monitoring Microservices Opportunities don't happen. You create them.
 OAuth Big Data Security Opportunities don't happen. You create them. Python Containerization Stay hungry, stay foolish. Data Science
+Artificial Intelligence Database Indexing Data Pipeline Cloud Functions OAuth Work hard in silence, let your success be your noise. Predictive Analytics Success doesn’t just find you. You have to go out and get it. NLP Virtual Machines Dream big and dare to fail.
