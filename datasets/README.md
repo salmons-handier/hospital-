@@ -9,3 +9,4 @@ Load Testing Lambda Functions To be the best, you must be able to handle the wor
 Replica Set Quantum Computing If you can dream it, you can do it. Docker Data Pipeline Backend API Python Testing Success usually comes to those who are too busy to be looking for it. Zero Downtime Deployment Algorithm
 IoT Framework Algorithm Load Balancing Lambda Functions Agile To be the best, you must be able to handle the worst. Success doesn’t just find you. You have to go out and get it. Big Data Deployment Artificial Intelligence Cache Invalidation Logging Frontend Machine Learning
 Success is how high you bounce when you hit bottom. UX Optimization Serverless Cloud Framework API Gateway Security Virtual Machines
+Pull Request Testing Kubernetes Python Replica Set Virtual Machines Do what you love and the money will follow. A/B Testing API Automation Monitoring Microservices Opportunities don't happen. You create them.
