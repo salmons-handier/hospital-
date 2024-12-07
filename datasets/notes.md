@@ -6,3 +6,4 @@ Containerization Database Load Testing Load Balancing Docker Happiness is not so
 Database JWT WebSockets Don't be afraid to give up the good to go for the great. Success is not in what you have, but who you are. NLP Do what you love and the money will follow. Testing The only way to do great work is to love what you do. Predictive Analytics Pull Request Docker
 Latency Optimization DNS Routing Data Pipeline Load Balancing Success is how high you bounce when you hit bottom. Message Queue Stay hungry, stay foolish. Virtual Machines Scalability Happiness is not something ready made. It comes from your own actions.
 Happiness is not something ready made. It comes from your own actions. Frontend Load Balancing Deployment Replica Set Algorithm Scalability Microservices Automation Testing
+Frontend Load Testing Event-driven Architecture Cloud Functions Quantum Computing Virtual Machines Success doesn’t just find you. You have to go out and get it. Cache Invalidation Backend
