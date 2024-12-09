@@ -3,3 +3,4 @@ Do what you love and the money will follow. A/B Testing Database Indexing Monito
 Zero Downtime Deployment Multi-threading DevOps Success is how high you bounce when you hit bottom. Success is not in what you have, but who you are.
 Data Science Monitoring Serverless API Gateway Agile
 Success is how high you bounce when you hit bottom. Data Pipeline If you can dream it, you can do it. RabbitMQ Multi-threading Containerization Parallel Processing
+GraphQL Edge Computing Python Difficult roads often lead to beautiful destinations. API Blockchain
