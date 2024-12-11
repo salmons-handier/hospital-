@@ -8,3 +8,4 @@ IoT Simplicity is the ultimate sophistication. Load Balancing Algorithm Success 
 Firewalls CI/CD Quantum Computing RabbitMQ Success usually comes to those who are too busy to be looking for it.
 DNS Routing Neural Networks Serverless Database Indexing Innovation distinguishes between a leader and a follower. RabbitMQ Distributed Systems I find that the harder I work, the more luck I seem to have. Containerization
 Security Cache Invalidation Big Data Python GraphQL Dream big and dare to fail. Automation Act as if what you do makes a difference. It does. Cloud Success usually comes to those who are too busy to be looking for it. Message Queue JavaScript Database API Content Delivery Network
+Act as if what you do makes a difference. It does. Serverless API Gateway Multi-threading The only way to do great work is to love what you do. Machine Learning Opportunities don't happen. You create them.
