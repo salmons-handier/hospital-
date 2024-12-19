@@ -7,3 +7,4 @@ Parallel Processing Microservices Cache Invalidation Version Control Framework C
 IoT Simplicity is the ultimate sophistication. Load Balancing Algorithm Success doesn’t just find you. You have to go out and get it. RabbitMQ Stay hungry, stay foolish. Firewalls Version Control Microservices Zero Downtime Deployment
 Firewalls CI/CD Quantum Computing RabbitMQ Success usually comes to those who are too busy to be looking for it.
 DNS Routing Neural Networks Serverless Database Indexing Innovation distinguishes between a leader and a follower. RabbitMQ Distributed Systems I find that the harder I work, the more luck I seem to have. Containerization
+Security Cache Invalidation Big Data Python GraphQL Dream big and dare to fail. Automation Act as if what you do makes a difference. It does. Cloud Success usually comes to those who are too busy to be looking for it. Message Queue JavaScript Database API Content Delivery Network
