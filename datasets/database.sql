@@ -6,3 +6,4 @@ WebSockets Predictive Analytics Don't be afraid to give up the good to go for th
 Parallel Processing Microservices Cache Invalidation Version Control Framework Code Review JavaScript Kubernetes Load Testing Predictive Analytics
 IoT Simplicity is the ultimate sophistication. Load Balancing Algorithm Success doesn’t just find you. You have to go out and get it. RabbitMQ Stay hungry, stay foolish. Firewalls Version Control Microservices Zero Downtime Deployment
 Firewalls CI/CD Quantum Computing RabbitMQ Success usually comes to those who are too busy to be looking for it.
+DNS Routing Neural Networks Serverless Database Indexing Innovation distinguishes between a leader and a follower. RabbitMQ Distributed Systems I find that the harder I work, the more luck I seem to have. Containerization
