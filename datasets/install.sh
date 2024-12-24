@@ -1,1 +1,2 @@
 Data Science Artificial Intelligence OAuth Neural Networks API Gateway Code Review Zero Downtime Deployment Success is how high you bounce when you hit bottom. Act as if what you do makes a difference. It does. Latency Optimization
+Data Science Framework CI/CD A/B Testing DevOps Happiness is not something ready made. It comes from your own actions. Kafka Containerization Stay hungry, stay foolish. Simplicity is the ultimate sophistication. IoT Don't be afraid to give up the good to go for the great. Monitoring Docker Dream big and dare to fail.
