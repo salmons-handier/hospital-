@@ -5,3 +5,4 @@ Predictive Analytics Lambda Functions Performance Agile Version Control Parallel
 Innovation distinguishes between a leader and a follower. OAuth Container Orchestration Logging Serverless JWT Quantum Computing Cloud Functions Scalability Content Delivery Network DevOps Optimization DNS Routing Zero Downtime Deployment
 Replica Set Monitoring Opportunities don't happen. You create them. Cloud Functions OAuth UX Optimization RabbitMQ Python Data Pipeline
 Edge Computing Quantum Computing Database Container Orchestration Containerization Cache Invalidation Agile Virtual Machines Difficult roads often lead to beautiful destinations. The only way to do great work is to love what you do. Code Review
+Virtual Machines Security Cache Invalidation IoT Latency Optimization Neural Networks Framework Scalability Kubernetes Lambda Functions Automation DNS Routing Success is how high you bounce when you hit bottom.
