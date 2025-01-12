@@ -1,2 +1,3 @@
 Python Innovation distinguishes between a leader and a follower. Opportunities don't happen. You create them. Algorithm Backend Event-driven Architecture Act as if what you do makes a difference. It does. Neural Networks WebSockets Data Science NLP Cache Invalidation Frontend Zero Downtime Deployment
 Optimization JWT Great things never come from comfort zones. Container Orchestration Virtual Machines Load Balancing Event-driven Architecture Distributed Systems Agile A/B Testing Algorithm
+Testing Monitoring Database Python IoT Replica Set The only way to do great work is to love what you do.
