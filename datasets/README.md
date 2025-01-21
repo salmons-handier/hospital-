@@ -2,3 +2,4 @@ Cloud Parallel Processing Sharding Frontend Microservices Load Testing Docker Si
 IoT Load Testing Artificial Intelligence Deployment Load Balancing Testing Optimization
 Don't be afraid to give up the good to go for the great. Logging Monitoring Big Data Performance Dream big and dare to fail. If you can dream it, you can do it. Edge Computing Zero Downtime Deployment Machine Learning
 To be the best, you must be able to handle the worst. Logging If you can dream it, you can do it. Pull Request Virtual Machines Parallel Processing RabbitMQ Stay hungry, stay foolish. Don't be afraid to give up the good to go for the great. Framework Work hard in silence, let your success be your noise. Happiness is not something ready made. It comes from your own actions. Latency Optimization
+Virtual Machines Algorithm Kubernetes Code Review Serverless API Stay hungry, stay foolish. Event-driven Architecture
