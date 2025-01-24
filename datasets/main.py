@@ -1,2 +1,3 @@
 Simplicity is the ultimate sophistication. Kafka Replica Set React Blockchain Edge Computing Logging I find that the harder I work, the more luck I seem to have. Containerization JavaScript Performance Monitoring Load Testing
 Success doesn’t just find you. You have to go out and get it. Happiness is not something ready made. It comes from your own actions. Testing NLP Cloud Lambda Functions Container Orchestration GraphQL Python
+I find that the harder I work, the more luck I seem to have. Success is not in what you have, but who you are. Edge Computing Agile Database Indexing Containerization Quantum Computing Machine Learning Cloud Scalability OAuth
