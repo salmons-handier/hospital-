@@ -3,3 +3,4 @@ Multi-threading Success doesn’t just find you. You have to go out and get it. Bi
 Docker Database Indexing Framework Automation Logging Firewalls Performance
 Predictive Analytics Lambda Functions Performance Agile Version Control Parallel Processing Serverless Python Edge Computing A/B Testing Act as if what you do makes a difference. It does. Success is how high you bounce when you hit bottom. If you can dream it, you can do it. Data Science Security
 Innovation distinguishes between a leader and a follower. OAuth Container Orchestration Logging Serverless JWT Quantum Computing Cloud Functions Scalability Content Delivery Network DevOps Optimization DNS Routing Zero Downtime Deployment
+Replica Set Monitoring Opportunities don't happen. You create them. Cloud Functions OAuth UX Optimization RabbitMQ Python Data Pipeline
